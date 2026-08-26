@@ -127,6 +127,17 @@ ai-financial-analysis-demo/
 
 ---
 
+## Project Files
+
+| File | Description |
+|---|---|
+| [Synthetic Expense Dataset](data/synthetic_expense_data.xlsx) | 1,000 synthetically generated corporate expense transactions for financial analysis. |
+| [Python Analysis Notebook](analysis/financial_anomaly_detection.ipynb) | Reproducible Python workflow covering data review, anomaly detection and financial analysis. |
+| [Financial Analysis Dashboard](dashboard/financial_dashboard.png) | Visual summary of key financial metrics and review flags. |
+| [Project Report](report/AI_Financial_Analysis_Report.pdf) | Summary of methodology, findings, Human-AI collaboration and limitations. |
+
+---
+
 ## Data Privacy
 
 All financial data in this repository are **synthetically generated**.
@@ -135,8 +146,8 @@ The project does not contain any confidential client information, audit working 
 
 ---
 
-## Status
+## Project Status
 
-🚧 Project currently under development.
+✅ **Completed**
 
-The dataset, Python analysis, visualisations and final findings will be added progressively.
+This portfolio project includes a synthetic financial dataset, reproducible Python analysis, financial review dashboard and summary report.
