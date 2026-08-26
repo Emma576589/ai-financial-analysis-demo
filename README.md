@@ -53,8 +53,25 @@ Dashboard & Findings
 
 ---
 
-## Key Analysis Areas
+## Dashboard
 
+The dashboard below summarises the main financial review results from the synthetic expense dataset.
+
+![Financial Analysis Dashboard](dashboard/financial_dashboard.png)
+
+### Key Results
+
+- **1,000** synthetic financial transactions analysed
+- **CNY 1.90 million** in total expenses reviewed
+- **78 transactions** triggered at least one review flag
+- **28 high-value transactions** identified
+- **28 duplicate-like transactions** identified
+- **22 weekend transactions** identified
+
+> Review flags indicate transactions requiring further investigation. They do not constitute evidence of fraud or misconduct.
+
+---
+## Key Analysis Areas
 The analysis focuses on several potential financial risk indicators:
 
 1. High-value transactions
